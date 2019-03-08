@@ -1,10 +1,13 @@
-//
-//  ColorsViewController.swift
-//  Colors
-//
-//  Created by Felipe Costa on 3/7/19.
-//  Copyright © 2019 Felipe Costa. All rights reserved.
-//
+/*
+ *  ColorsViewController.swift
+ *  Colors
+ *
+ *  IT 4405 - Challenge: Colors Table View
+ *
+ *  Created by Felipe Costa on 3/7/19.
+ *  Copyright © 2019 Felipe Costa. All rights reserved.
+ *
+ */
 
 import UIKit
 
